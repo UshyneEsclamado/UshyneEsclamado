@@ -60,9 +60,9 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E8E2D9?style=for-the-badge&logo=linkedin&logoColor=8B5E3C)](https://linkedin.com/in/...)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E8E2D9?style=for-the-badge&logo=linkedin&logoColor=8B5E3C)](https://www.linkedin.com/in/ushyne-esclamado-842067326/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-E8E2D9?style=for-the-badge&logo=google-chrome&logoColor=8B5E3C)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-E8E2D9?style=for-the-badge&logo=gmail&logoColor=8B5E3C)](mailto:yourname@email.com)
+[![Email](https://img.shields.io/badge/Email-E8E2D9?style=for-the-badge&logo=gmail&logoColor=8B5E3C)](mailto:ushyneesclamado@gmail.com)
 
 <br>
 
