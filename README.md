@@ -5,18 +5,18 @@
 
 <br>
 
+<!-- Animated Name -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Ushyne+✧" alt="Typing SVG" />
+
+<br><br>
+
 <!-- Coding Girl GIF -->
 <img src="https://i.imgflip.com/9rfpor.gif" width="380" alt="Coding Girl"/>
 
 <br><br>
 
-<!-- Animated Name -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=8B7355&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Ushyne+✧" alt="Typing SVG" />
-
-<br>
-
-<p style="color: #8B7355; font-size: 18px; font-family: 'Fira Code', monospace;">
-  4th Year Information Technology Student
+<p style="color: #8B7355; font-size: 20px; font-family: 'Fira Code', monospace;">
+  ✧ 4th Year Information Technology Student ✧
 </p>
 
 <br>
@@ -27,7 +27,7 @@
 <br><br><br>
 
 <!-- About Me Section -->
-<h2 style="color: #8B7355; font-family: 'Fira Code', monospace; font-weight: 300;">About Me</h2>
+<h2 style="color: #8B7355; font-family: 'Fira Code', monospace; font-weight: 300;">✧ About Me ✧</h2>
 
 <br>
 
@@ -54,7 +54,7 @@
 <br><br><br>
 
 <!-- Tech Stack Section -->
-<h2 style="color: #8B7355; font-family: 'Fira Code', monospace; font-weight: 300;">Tech Stack</h2>
+<h2 style="color: #8B7355; font-family: 'Fira Code', monospace; font-weight: 300;">✧ Tech Stack ✧</h2>
 
 <br>
 
@@ -81,7 +81,7 @@
 <br><br><br>
 
 <!-- Connect Section -->
-<h2 style="color: #8B7355; font-family: 'Fira Code', monospace; font-weight: 300;">Connect with Me</h2>
+<h2 style="color: #8B7355; font-family: 'Fira Code', monospace; font-weight: 300;">✧ Connect with Me ✧</h2>
 
 <br>
 
